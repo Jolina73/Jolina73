@@ -1,21 +1,20 @@
-<div align="center" style="background: linear-gradient(to right, #fbc2eb, #a6c1ee); padding: 30px; border-radius: 15px;">
+<h2 align="center" style="background: linear-gradient(to right, #fbc2eb, #a6c1ee); -webkit-background-clip: text; color: transparent;">
+Hi, I'm Jolina Ragadi
+</h2>
 
-<h2>Hi, I'm Jolina Ragadi</h2>
-<h3>Second-Year BSIT Student</h3>
+<h3 align="center" style="background: linear-gradient(to right, #a1c4fd, #c2e9fb); -webkit-background-clip: text; color: transparent;">
+Second-Year BSIT Student
+</h3>
 
 ### 👩‍💻 About Me
-<h3 style="background-color: violet; padding: 10px; border-radius: 10px;">- I am a second-year BSIT student learning the basics of Information Technology.</h3>
-<h3 style="background-color: violet; padding: 10px; border-radius: 10px;">- I am currently learning how to use Git and GitHub.</h3>
-<h3 style="background-color: violet; padding: 10px; border-radius: 10px;">- My goal is to improve my skills step by step and gain more experience.</h3>
+<h3 style="background: linear-gradient(to right, #f7971e, #ffd200); -webkit-background-clip: text; color: transparent;">
+- I am a second-year BSIT student learning the basics of Information Technology.
+</h3>
 
-### Hobbies
-<h4>• Dancing</h4>
-<h4>• Listening to music</h4>
-<h4>• Singing</h4>
+<h3 style="background: linear-gradient(to right, #ff6a88, #ff99ac); -webkit-background-clip: text; color: transparent;">
+- I am currently learning how to use Git and GitHub.
+</h3>
 
-### 📫 Contact Me
-📧 <strong>Email:</strong> jolinaragadi03@gmail.com
-
-<p style="font-style: italic;">Thank you for visiting my GitHub profile!</p>
-
-</div>
+<h3 style="background: linear-gradient(to right, #43cea2, #185a9d); -webkit-background-clip: text; color: transparent;">
+- My goal is to improve my skills step by step and gain more experience.
+</h3>
