@@ -6,18 +6,20 @@
   <img src="https://img.shields.io/badge/Git-GitHub-orange?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+
 
 ### 👩‍💻 About Me
 <div align="center">
   <img src="https://img.shields.io/badge/Learning-IT-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
-- I am a second-year BSIT student learning the basics of Information Technology.  
-- Currently exploring **Git & GitHub**.  
+- I am a second-year BSIT student learning the basics of Information Technology.
+  
+- Currently exploring **Git & GitHub**.
+  
 - My goal is to improve my skills step by step and gain more experience.
 
----
+
 
 ### 🎨 Hobbies
 <div align="center">
@@ -26,14 +28,13 @@
   <img src="https://img.shields.io/badge/Singing-🎤-green?style=for-the-badge" />
 </div>
 
----
+
 
 ### 📫 Contact Me
 <p align="center">
-  <img src="https://img.shields.io/badge/Email-jolinaragadi03@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</p>
+jolinaragadi03@gmail.com
 
----
+
 
 <p align="center">
   <i>Thank you for visiting my GitHub profile! </i>
