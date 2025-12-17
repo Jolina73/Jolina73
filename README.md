@@ -1,5 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jolina%20Ragadi&fontSize=40&fontColor=ffffff)
-
+<h1 align="center">Hi, I'm Jolina Ragadi 👋</h1>
 <h3 align="center">Second-Year BSIT Student</h3>
 
 ---
