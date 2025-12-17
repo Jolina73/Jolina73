@@ -5,15 +5,15 @@
 
 ### 👩‍💻 About Me
 <div align="center">
-<h3 style="background-color:Tomato;">- I am a second-year BSIT student learning the basics of Information Technology.   </h3>
-<p style="background-color:Tomato;">Lorem ipsum...</p>
+<h3 style="background-color:violet;">- I am a second-year BSIT student learning the basics of Information Technology.   </h3>
+<p style="background-color: violet;">Lorem ipsum...</p>
   
-<h3 style="background-color:Tomato;">- I am currently learning how to use Git and GitHub.</h3>
-<p style="background-color:Tomato;">Lorem ipsum...</p>
+<h3 style="background-color:violet;">- I am currently learning how to use Git and GitHub.</h3>
+<p style="background-color:violet;">Lorem ipsum...</p>
   
 <h3 style="background-color: Tomato;">- My goal is to improve my skills step by step and gain more experience. 
 </h3>
-<p style="background-color:Violet;">Lorem ipsum...</p>
+<p style="background-color:violet;">Lorem ipsum...</p>
 
 
 ###  Hobbies
