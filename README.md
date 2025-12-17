@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Jolina Ragadi 👋
 
-<!--
-**Jolina73/Jolina73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👩‍💻 Introduction
+Name:Jolina Ragadi  
+Role/Goal:Second-Year BSIT Student  
 
-Here are some ideas to get you started:
+📖 About Me
+- I am a second-year BSIT student learning the basics of information technology.
+  
+- I am currently learning how to use Git and GitHub.
+  
+- My goal is to improve my skills step by step and gain more experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎶 Hobbies
+- Dancing  
+- Listening to music  
+- Singing  
+
+📫 Contact
+Email:jolinaragadi03@gmail.com
