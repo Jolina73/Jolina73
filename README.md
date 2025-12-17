@@ -1,7 +1,16 @@
 <div align="center">
 
-# Hi, I'm Jolina Ragadi 👋
-### Second-Year BSIT Student
+<!-- Profile Picture -->
+<img src="https://via.placeholder.com/150" alt="Jolina Ragadi" width="150" style="border-radius:50%;"/>
+
+<!-- Name with background color -->
+<h1>
+  <span style="background-color: violet; color: white; padding: 5px 15px; border-radius: 10px;">
+    Hi, I'm Jolina Ragadi
+  </span>
+</h1>
+
+<h3>Second-Year BSIT Student</h3>
 
 ---
 
