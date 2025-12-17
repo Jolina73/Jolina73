@@ -1,21 +1,27 @@
-<div align="center" style="background: linear-gradient(to right, #fbc2eb, #a6c1ee); padding: 30px; border-radius: 15px;">
+<div align="center">
 
-<h2>Hi, I'm Jolina Ragadi</h2>
-<h3>Second-Year BSIT Student</h3>
+# Hi, I'm Jolina Ragadi 👋
+### Second-Year BSIT Student
+
+---
 
 ### 👩‍💻 About Me
-<h3 style="background-color: violet; padding: 10px; border-radius: 10px;">- I am a second-year BSIT student learning the basics of Information Technology.</h3>
-<h3 style="background-color: violet; padding: 10px; border-radius: 10px;">- I am currently learning how to use Git and GitHub.</h3>
-<h3 style="background-color: violet; padding: 10px; border-radius: 10px;">- My goal is to improve my skills step by step and gain more experience.</h3>
+- 💻 I am a second-year BSIT student learning the basics of Information Technology.
+- 🌱 I am currently learning how to use Git and GitHub.
+- 🎯 My goal is to improve my skills step by step and gain more experience.
 
-### Hobbies
-<h4>• Dancing</h4>
-<h4>• Listening to music</h4>
-<h4>• Singing</h4>
+---
+
+### 🎨 Hobbies
+- 💃 Dancing  
+- 🎵 Listening to music  
+- 🎤 Singing  
+
+---
 
 ### 📫 Contact Me
-📧 <strong>Email:</strong> jolinaragadi03@gmail.com
+📧 **Email:** jolinaragadi03@gmail.com
 
-<p style="font-style: italic;">Thank you for visiting my GitHub profile!</p>
+*Thank you for visiting my GitHub profile!*  
 
 </div>
