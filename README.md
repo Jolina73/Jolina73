@@ -2,11 +2,11 @@
 
 
 
-<h1>
+<h2>
   <span style="background-color: violet; color: white; padding: 8px 20px; border-radius: 15px;">
     Hi, I'm Jolina Ragadi
   </span>
-</h1>
+</h2>
 
 <h3>
   <span style="background-color: #6c63ff; color: white; padding: 5px 15px; border-radius: 10px;">
