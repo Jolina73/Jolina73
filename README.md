@@ -1,23 +1,22 @@
-<h1 align="center">Hi, I'm Jolina Ragadi </h1>
+<h2 align="center">Hi, I'm Jolina Ragadi </h2>
 <h3 align="center">Second-Year BSIT Student</h3>
 
 
 
 ### 👩‍💻 About Me
 <div align="center">
-  <img src="https://img.shields.io/badge/BSIT-SecondYear-blueviolet?style=for-the-badge&logo=student&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-Git%20%26%20GitHub-orange?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-- I am a second-year BSIT student learning the basics of Information Technology.  
-- I am currently learning how to use Git and GitHub.  
-- My goal is to improve my skills step by step and gain more experience.
+<h3 style="background-color:DodgerBlue;"- I am a second-year BSIT student learning the basics of Information Technology.   </h3>
+  
+<h3 style="background-color:DodgerBlue;"- I am currently learning how to use Git and GitHub.</h3>
+  
+<h3 style="background-color:DodgerBlue;"- My goal is to improve my skills step by step and gain more experience. </h3>
 
 
 
-### // Hobbies
-• Dancing  
-• Listening to music  
-• Singing  
+###  Hobbies
+### • Dancing  
+### • Listening to music  
+### • Singing  
 
 
 
@@ -26,4 +25,4 @@
 
 
 
-*Thank you for visiting my GitHub profile!*
+### *Thank you for visiting my GitHub profile!*
